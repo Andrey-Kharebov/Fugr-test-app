@@ -1,0 +1,11 @@
+.searchBar {
+  position: relative;
+  margin-top: 15px;
+  border-bottom: 1px solid rgb(222, 117, 118);
+}
+
+.searchBtn {
+  position: absolute;
+  top: -7px;
+  right: 0;
+}
